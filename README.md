@@ -1,2 +1,2 @@
 # myResume
-reveal-js resume
+简单在线简历，借鉴了好多大神的代码。
