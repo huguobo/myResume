@@ -1,0 +1,38 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "Welcome!",
+  "main": "index.js",
+  "scripts": {
+    "complie": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huguobo/myResume.git"
+  },
+  "keywords": [
+    "CV",
+    "cooper",
+    "resume"
+  ],
+  "author": "cooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huguobo/myResume/issues"
+  },
+  "homepage": "https://github.com/huguobo/myResume#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "babel": "^6.23.0",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.7.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1"
+  }
+}

@@ -4,11 +4,12 @@ $avatar-r: 200px;
     width: $avatar-r;
     height: $avatar-r;
     border: 10px solid $clr-light;
-
+    object-fit: cover;
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
          -o-border-radius: 50%;
             border-radius: 50%;
+    
 }
 
 .circle-img {
