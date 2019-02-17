@@ -51,6 +51,7 @@ html, body {
 .pp-tableCell {
     display: table-cell;
     vertical-align: middle;
+    text-align: center;
     width: 100%;
     height: 100%;
 }
